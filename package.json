@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "instagram-web-api": "^2.2.2",
-    "nodejs-file-downloader": "^4.7.4"
+    "nodejs-file-downloader": "^4.7.4",
+    "tough-cookie-filestore2": "^1.0.0"
   }
 }

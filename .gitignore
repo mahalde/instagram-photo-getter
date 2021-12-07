@@ -1,2 +1,5 @@
 node_modules
-instagram
+instagram*
+.env
+cookies.json
+.DS_Store
